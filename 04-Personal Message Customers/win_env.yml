@@ -1,0 +1,8 @@
+name: case_7.4
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pandas
+- numpy
+- matplotlib

@@ -1,0 +1,16 @@
+name: case_7.2
+channels:
+- conda-forge
+- defaults
+dependencies:
+- jupyter
+- nb_conda
+- nb_conda_kernels
+- nb_anacondacloud
+- conda
+- jupyter_client
+- nbconvert
+- pandas
+- numpy
+- scipy
+- matplotlib
