@@ -1,3 +1,5 @@
+![Screenshot](BenettonIO.png)
+
 # Benetton.IO Repository
 
 ### This is the repo about all my projects.
